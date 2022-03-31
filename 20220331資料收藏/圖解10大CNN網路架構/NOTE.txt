@@ -1,0 +1,15 @@
+圖解10大CNN網路架構
+
+資料來源: https://sa123.cc/nss81dtqektf52t9wce3.html
+
+目錄（按發表時間排序）
+LeNet-5
+AlexNet
+VGG-16
+Inception-v1
+Inception-v3
+ResNet-50
+Xception
+Inception-v4
+Inception-ResNets
+ResNeXt-50
