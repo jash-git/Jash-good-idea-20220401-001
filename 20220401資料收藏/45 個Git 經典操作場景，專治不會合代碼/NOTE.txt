@@ -1,0 +1,34 @@
+45 個Git 經典操作場景，專治不會合代碼
+
+資料來源: https://mp.weixin.qq.com/s/K35D1i3vE8JPzkU91Z52Tw
+
+我剛才提交了什麼?
+$ git show
+
+我的提交信息(commit message)寫錯了
+$ git commit --amend --only
+
+我提交(commit)裡的用戶名和郵箱不對
+$ git commit --amend --author "New Authorname <authoremail@mydomain.com>"
+
+我想從一個提交(commit)裡移除/刪除一個文件/檔案
+$ git checkout HEAD^ myfile
+$ git add -A
+$ git commit --amend
+
+我想刪除我的的最後一次提交(commit)
+$ git reset HEAD^ --hard
+$ git push -f [remote] [branch]
+
+刪除任意提交(commit)
+$ git rebase --onto SHA1_OF_BAD_COMMIT^ SHA1_OF_BAD_COMMIT
+$ git push -f [remote] [branch]
+
+我需要把暫存的內容添加到上一次的提交(commit)
+$ git commit --amend
+
+我想要暫存一個新文件的一部分，而不是這個文件的全部
+$ git add --patch filename.x
+
+我想扔掉本地的提交(commit)，以便我的分支與遠程的保持一致
+
