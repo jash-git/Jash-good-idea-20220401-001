@@ -1,0 +1,12 @@
+流程圖[flow chart]基本範例教學
+
+資料來源: http://www2.lssh.tp.edu.tw/~hlf/class-1/lang-c/flow/flow-chat.htm
+
+流程圖基本圖形
+    開始或結束工作的圖形
+    輸入/輸出工作的圖形
+    處理工作的圖形
+    條件判斷的圖形
+    工作流向的圖形
+    連接點
+	
