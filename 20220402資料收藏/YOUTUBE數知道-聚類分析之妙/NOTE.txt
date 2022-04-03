@@ -1,0 +1,6 @@
+聚類分析之妙 ~ (K means、Dbscan、Mean Shift、Agnes) [教學影片]
+
+資料來源: https://www.youtube.com/watch?v=5FNBNu-q3nI&list=PLMR7Ew8pMhddjFOdY9-9m9gy2YEmz1kq5&index=3
+
+根據特徵值進行分類的方法稱為聚類分析
+
