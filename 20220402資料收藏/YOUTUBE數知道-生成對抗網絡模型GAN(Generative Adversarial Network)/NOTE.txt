@@ -1,0 +1,4 @@
+能夠創造虛擬現實的"生成對抗網絡模型GAN(Generative Adversarial Network)"
+
+資料來源: https://www.youtube.com/watch?v=rdyD2S4hMes&list=PLMR7Ew8pMhddjFOdY9-9m9gy2YEmz1kq5&index=11
+
