@@ -1,0 +1,13 @@
+[C/C++]C語言-檔案I/O函數
+
+資料來源:http://gundambox.github.io/2015/10/30/C%E8%AA%9E%E8%A8%80-%E6%AA%94%E6%A1%88I-O/
+
+檔案開啟模式
+開啟/關閉函數 - fopen,fclose
+字元函數 - fgetc,fputc
+字串函數 - fgets,fputs
+格式化函數 - fscanf,fprintf
+二進位檔案存取函數 - fread,fwrite
+移動檔案位置(位址)旗標函數 - fseek [一般會使用二進位模式搭配自定的資料結構(struct)]
+重新導向串流(stream)函數 - freopen
+
